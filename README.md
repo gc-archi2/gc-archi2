@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @gc-archi2
+- 👀 I’m interested in learning
+- 🌱 I’m currently learning Python
